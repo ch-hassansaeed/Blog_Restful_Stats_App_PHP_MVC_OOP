@@ -4,6 +4,8 @@ PHP MVC OOP Blog Restful Stats App
 This PHP MVC application design OOP desgin pattern that separates the application data 
 and business logic (model) from the presentation (view). MVC stands for Model, View & Controller. 
 
+Demo Video Link : https://drive.google.com/file/d/17AbOpmNEOiXCqN0fY00bytv9Hxjk_FRn/view
+
 generate the access token key
 http://localhost:86/supermetrics/Pages/RegisterJWT
 
